@@ -1,4 +1,5 @@
-//Alden Dent
+//Alden Dent 
+//Hello Functions
 
 #include <Servo.h>
 #include "Arduino.h"
@@ -31,7 +32,7 @@ int GetDistance(){
 	digitalWrite(trigPin, LOW);
 	duration = pulseIn(echoPin, HIGH);
 	//distanceCm = duration * 0.0340 / 2;
-	distance = duration * 0.01330 / 2;
+	distance = duration * 0.01330 / 2;	//Turns the length of time into distance
 	return distance;
 }
 
