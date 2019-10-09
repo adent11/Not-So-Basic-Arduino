@@ -11,3 +11,4 @@ In this assignment I learned how useful functions can be to make code simpler an
 ## NewPing()
 #### Included Files:
 <a href="NewPing()">NewPing()</a> <br/>
+For this assignment I used the NewPing library to get the distance instead of my own function. I made it so the distance was printed on an LCD in centimeters and
