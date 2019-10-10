@@ -11,4 +11,4 @@ One useful thing I learned from this was how using functions can make your life 
 ## NewPing()
 #### Included Files:
 <a href="NewPing()">NewPing()</a> <br/>
-For this assignment I used the NewPing library to get the distance instead of my own function. I made it so the distance was printed on an LCD in centimeters and an LED brightened or dimmed depending on far an obstruction was from the sensor.
+For this assignment I used the NewPing library to get the distance instead of my own function. I made it so the distance was printed on the serial monitor in centimeters and an LED brightened or dimmed depending on far an obstruction was from the sensor.
