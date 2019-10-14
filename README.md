@@ -14,4 +14,4 @@ One useful thing I learned from this was how using functions can make your life 
 For this assignment I used the NewPing library to get the distance instead of my own function. I made it so the distance was printed on the serial monitor in centimeters and an LED brightened or dimmed depending on far an obstruction was from the sensor. <br/>
 <IMG SRC="FritzingDiagrams/NewPing()Screenshot.PNG"  width="300" height="210">
 <br/>
-I had fun with this assignment make something where your physical action had an effect on the light.
+I had fun with this assignment because I made something where your physical action had an effect on the light.
